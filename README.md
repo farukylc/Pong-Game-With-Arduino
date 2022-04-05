@@ -13,12 +13,12 @@ In this project my aim was creating the classic **PONG** game with Arduino. “*
 
 
 # Materials:
-Here are the materials that you are going to need for this project:
+Here are the **materials** that you are going to need for this project:
 
 ![Ekran görüntüsü 2022-04-05 144616](https://user-images.githubusercontent.com/99920678/161747079-d2b4bab7-4175-42d8-ba47-bee3a566357a.png)
 
 # Circuit:
 
-Here are the connections:
+Here are the **connections**:
 ![circuit](https://user-images.githubusercontent.com/99920678/161747189-729d4705-9cc2-409b-a90c-90efac8c061d.png) 
 
