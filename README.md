@@ -22,7 +22,7 @@ Here are the **materials** that you are going to need for this project:
 Here are the **connections**:
 ![circuit](https://user-images.githubusercontent.com/99920678/161747189-729d4705-9cc2-409b-a90c-90efac8c061d.png) 
 
-# Libraries
+# Libraries:
 
 You can access LedControl library from here:
 [LedControl](https://github.com/wayoda/LedControl/releases)
