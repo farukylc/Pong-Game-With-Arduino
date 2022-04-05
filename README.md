@@ -1,6 +1,6 @@
 # Pong Game With Arduino
 
-# Introduction!
+# Introduction:
 
 
 In this project my aim was creating the classic **PONG** game with Arduino. “**Pong** is a [table tennis](https://en.wikipedia.org/wiki/Table_tennis "Table tennis")–themed [twitch](https://en.wikipedia.org/wiki/Twitch_gameplay "Twitch gameplay") arcade [sports video game](https://en.wikipedia.org/wiki/Sports_video_game "Sports video game"), featuring simple [two-dimensional graphics](https://en.wikipedia.org/wiki/2D_computer_graphics "2D computer graphics"), manufactured by [Atari](https://en.wikipedia.org/wiki/Atari,_Inc "Atari, Inc") and originally released in 1972.”.
