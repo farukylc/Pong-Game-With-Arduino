@@ -7,7 +7,7 @@ In this project my aim was creating the classic **PONG** game with Arduino. “*
 
 “**Pong** is a two-dimensional sports game]that simulates [table tennis](https://en.wikipedia.org/wiki/Table_tennis "Table tennis"). The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth. The goal is for each player to reach eleven points before the opponent; points are earned when one fails to return the ball to the other.”
 
-I finished this project for my  **Microproccessor** Lecture (**COME322/1**). I get lots of help from the project which you can access via this [link](https://www.instructables.com/8x16-LED-Matrix-Pong-Game-2-Paddles-Per-Player-Ver/). I added some features such as saving the score and the date when the game played.
+<ins> I finished this project for my  **Microproccessor** Lecture (**COME322/1**). **I got lots of help from the project which you can access via this [link](https://www.instructables.com/8x16-LED-Matrix-Pong-Game-2-Paddles-Per-Player-Ver/)**. I added some features such as saving the score and the date when the game played. </ins>
 
 ![PONG Game](https://www.hiig.de/wp-content/uploads/2014/11/Pong1-1200x900.jpg)
 
